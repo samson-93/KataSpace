@@ -1,0 +1,11 @@
+/Users/93dsamson/_code/KataSpace/BowlingGame/bin/Debug/net8.0/BowlingGame.deps.json
+/Users/93dsamson/_code/KataSpace/BowlingGame/bin/Debug/net8.0/BowlingGame.dll
+/Users/93dsamson/_code/KataSpace/BowlingGame/bin/Debug/net8.0/BowlingGame.pdb
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfoInputs.cache
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfo.cs
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.csproj.CoreCompileInputs.cache
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.dll
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/refint/BowlingGame.dll
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/BowlingGame.pdb
+/Users/93dsamson/_code/KataSpace/BowlingGame/obj/Debug/net8.0/ref/BowlingGame.dll

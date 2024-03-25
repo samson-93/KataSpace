@@ -1,0 +1,11 @@
+/Users/93dsamson/_code/KataSpace/RPGCombat/bin/Debug/net8.0/RPGCombat.deps.json
+/Users/93dsamson/_code/KataSpace/RPGCombat/bin/Debug/net8.0/RPGCombat.dll
+/Users/93dsamson/_code/KataSpace/RPGCombat/bin/Debug/net8.0/RPGCombat.pdb
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.AssemblyInfoInputs.cache
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.AssemblyInfo.cs
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.csproj.CoreCompileInputs.cache
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.dll
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/refint/RPGCombat.dll
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/RPGCombat.pdb
+/Users/93dsamson/_code/KataSpace/RPGCombat/obj/Debug/net8.0/ref/RPGCombat.dll

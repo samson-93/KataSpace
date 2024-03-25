@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCombat", "RPGCombat\RPGCombat.csproj", "{810396CC-5DD8-4828-8227-95D048FB0A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCombat.Tests", "RPGCombat.Tests\RPGCombat.Tests.csproj", "{C062C6DD-A0D8-42F2-B664-532B37E9429D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPGCombat", "RPGCombat", "{7327EDCC-CBD2-4713-9238-B3E08DB44BFA}"
+	ProjectSection(SolutionItems) = preProject
+		RPGCombat\README.md = RPGCombat\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BowlingGame", "BowlingGame", "{F2102119-B93C-4563-ADD3-39E37DE8A4F7}"
+	ProjectSection(SolutionItems) = preProject
+		BowlingGame\README.md = BowlingGame\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameTests", "BowlingGameTests\BowlingGameTests.csproj", "{72820B8C-2F43-4A1A-8AE1-A96A88E9918A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame", "BowlingGame\BowlingGame.csproj", "{881847F6-FC5A-42C6-B90E-3D56D49BB033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810396CC-5DD8-4828-8227-95D048FB0A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810396CC-5DD8-4828-8227-95D048FB0A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810396CC-5DD8-4828-8227-95D048FB0A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810396CC-5DD8-4828-8227-95D048FB0A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C062C6DD-A0D8-42F2-B664-532B37E9429D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C062C6DD-A0D8-42F2-B664-532B37E9429D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C062C6DD-A0D8-42F2-B664-532B37E9429D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C062C6DD-A0D8-42F2-B664-532B37E9429D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72820B8C-2F43-4A1A-8AE1-A96A88E9918A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72820B8C-2F43-4A1A-8AE1-A96A88E9918A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72820B8C-2F43-4A1A-8AE1-A96A88E9918A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72820B8C-2F43-4A1A-8AE1-A96A88E9918A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881847F6-FC5A-42C6-B90E-3D56D49BB033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881847F6-FC5A-42C6-B90E-3D56D49BB033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881847F6-FC5A-42C6-B90E-3D56D49BB033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881847F6-FC5A-42C6-B90E-3D56D49BB033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{810396CC-5DD8-4828-8227-95D048FB0A8A} = {7327EDCC-CBD2-4713-9238-B3E08DB44BFA}
+		{C062C6DD-A0D8-42F2-B664-532B37E9429D} = {7327EDCC-CBD2-4713-9238-B3E08DB44BFA}
+		{72820B8C-2F43-4A1A-8AE1-A96A88E9918A} = {F2102119-B93C-4563-ADD3-39E37DE8A4F7}
+		{881847F6-FC5A-42C6-B90E-3D56D49BB033} = {F2102119-B93C-4563-ADD3-39E37DE8A4F7}
+	EndGlobalSection
+EndGlobal
